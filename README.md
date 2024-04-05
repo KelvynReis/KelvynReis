@@ -1,4 +1,5 @@
-## Olá! eu sou o Kelvyn Reis 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Kelvyn+Reis!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg) 👋
 
 <div align="center">
   <a href="https://github.com/KelvynReis">
@@ -15,7 +16,14 @@
   <img align="center" alt="kelvyn-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="kelvyn-handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg">
 </div>
-  
+
+##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelvynReis/KelvynReis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KelvynReis/KelvynReis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KelvynReis/KelvynReis/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
   
  ##
  <div>
