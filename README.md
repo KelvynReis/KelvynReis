@@ -16,15 +16,13 @@
 </div>
 
 ##
-<h3>GitHub Stats</h3>
 <div align="center">
   <a href="https://github.com/KelvynReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvynReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynReis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelvynReis&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KelvynReis&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/KelvynReis/github-readme-stats)
+
 
 ##
 <picture>
